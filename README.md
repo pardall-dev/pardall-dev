@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Pablo Gustavo</h1>
 
-<!--
-**pardall-dev/pardall-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  IT Professional | Python Developer | Automation & CLI Tools
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+IT professional with experience in infrastructure, internal systems, and process automation.  
+Focused on building reliable tools and improving workflows through Python-based solutions.
+
+I work on structured, maintainable projects with attention to clean architecture, packaging standards, and long-term scalability.
+
+---
+
+## Technical Focus
+
+- Python Development
+- CLI Applications
+- Automation & Process Optimization
+- Project Structuring & Packaging (pyproject.toml)
+- Git & Version Control
+- Windows & Linux Environments
+
+---
+
+## Current Interests
+
+- Publishing and maintaining Python packages
+- Improving software architecture practices
+- Developer tooling
+- Building scalable internal solutions
+
+---
+
+## Projects
+
+Most of my repositories are private due to internal or study-related work.  
+However, I actively develop tools and structured projects focused on automation and CLI environments.
+
+---
