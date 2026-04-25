@@ -1,45 +1,48 @@
-```bash
-pablo@github:~$ whoami
-Pablo Gustavo
+# Pablo Gustavo
 
-pablo@github:~$ cat about.txt
 Estudante de Cibersegurança pela Anhanguera
 Estudante de Análise e Desenvolvimento de Sistemas pela Escola Técnica Meta
 
-Focado em desenvolvimento aplicado à cibersegurança, com interesse em automação,
-análise de sistemas e ambientes Linux.
+---
 
-Sou um entusiasta de tecnologia com foco em construir soluções que integrem
-desenvolvimento e segurança.
+## Sobre mim
 
-Atualmente estou desenvolvendo minhas habilidades em programação e infraestrutura,
-com o objetivo de atuar como desenvolvedor voltado à área de cibersegurança.
+Sou um entusiasta de tecnologia com foco em desenvolvimento aplicado à cibersegurança. Tenho interesse em automação, análise de sistemas e ambientes Linux, buscando integrar desenvolvimento e segurança na construção de soluções eficientes.
 
-pablo@github:~$ ls skills/
-python  linux  docker  git  github  windows
+Atualmente estou aprimorando minhas habilidades em programação e infraestrutura, com o objetivo de atuar como desenvolvedor voltado à área de cibersegurança.
 
-pablo@github:~$ cat technologies.sh
-Python     ████████████
-Linux      ███████████
-Docker     █████████
-Git        █████████
-GitHub     █████████
-Windows    ████████
+---
 
-pablo@github:~$ cat projects.log
-[INFO] Inicializando projetos...
+## Tecnologias e Ferramentas
 
-- Automação com Python
-- Organização e processamento de dados
-- Ambientes com Docker
-- Ferramentas voltadas para segurança
+* Python
+* Linux
+* Docker
+* Git
+* GitHub
+* Windows
+* PostgreSQL
 
-[STATUS] Em desenvolvimento...
-[STATUS] Novos projetos serão adicionados em breve
+---
 
+## Projetos
 
-pablo@github:~$ echo "Eu me lembro de quando era fraco — uso isso como motivação. Hoje faço o que deveria ter feito há muito tempo."
-Eu me lembro de quando era fraco — uso isso como motivação. Hoje faço o que deveria ter feito há muito tempo.
+* Automação com Python
+* Organização e processamento de dados
+* Ambientes com Docker
+* Ferramentas voltadas para segurança
 
-pablo@github:~$ _
-```
+Novos projetos serão adicionados em breve.
+
+---
+
+## Objetivo
+
+Busco oportunidade para aplicar meus conhecimentos em desenvolvimento e segurança, contribuindo com soluções práticas enquanto continuo evoluindo tecnicamente.
+
+---
+
+## Contato
+
+GitHub: https://github.com/pardall-dev
+LinkedIn: https://www.linkedin.com/in/pablogustavo-alvesdias/
